@@ -1,2 +1,2 @@
 # calculate-Invoice
-Calculate Invoice without GUI written in C++
+Calculate Invoice with Struct without GUI written in C++
